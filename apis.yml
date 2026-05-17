@@ -2,7 +2,7 @@ aid: cooper-tire-and-rubber
 url: >-
   https://raw.githubusercontent.com/api-evangelist/cooper-tire-and-rubber/refs/heads/main/apis.yml
 name: Cooper Tire & Rubber
-x-type: company
+kind: company
 description: >-
   Cooper Tire & Rubber Company is an American manufacturer of replacement
   tires for passenger cars, light trucks, SUVs, and commercial vehicles,
