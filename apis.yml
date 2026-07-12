@@ -30,6 +30,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/cooper-tire-and-rubber-domain-security.yml
   - type: Website
     url: https://www.coopertire.com/
   - type: Tires
