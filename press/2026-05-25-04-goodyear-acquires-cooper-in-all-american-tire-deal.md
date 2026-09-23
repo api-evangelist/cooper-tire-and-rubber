@@ -1,7 +1,9 @@
 ---
 title: Goodyear acquires Cooper in all-American tire deal
 url: https://fox11online.com/news/nation-world/goodyear-acquires-cooper-in-all-american-tire-deal
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cooper Tire & Rubber" press release artificial intelligence'
 position: 4
 source: serpapi-google

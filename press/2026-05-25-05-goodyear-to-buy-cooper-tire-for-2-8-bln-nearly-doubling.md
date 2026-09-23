@@ -1,7 +1,9 @@
 ---
 title: Goodyear to buy Cooper Tire for $2.8 bln, nearly doubling ...
 url: https://www.reuters.com/world/china/goodyear-buy-cooper-tire-28-bln-nearly-doubling-china-presence-2021-02-22/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cooper Tire & Rubber" press release artificial intelligence'
 position: 5
 source: serpapi-google

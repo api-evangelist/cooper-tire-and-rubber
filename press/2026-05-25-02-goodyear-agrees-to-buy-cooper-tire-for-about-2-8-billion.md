@@ -1,7 +1,9 @@
 ---
 title: Goodyear agrees to buy Cooper Tire for about $2.8 billion
 url: https://www.autonews.com/suppliers/goodyear-agrees-buy-cooper-tire-about-28-billion/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cooper Tire & Rubber" press release artificial intelligence'
 position: 2
 source: serpapi-google

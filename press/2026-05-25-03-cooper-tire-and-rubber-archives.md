@@ -1,7 +1,9 @@
 ---
 title: Cooper Tire & Rubber Archives
 url: https://www.tyrepress.com/tag/cooper-tire-rubber/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cooper Tire & Rubber" press release artificial intelligence'
 position: 3
 source: serpapi-google
